@@ -16,3 +16,11 @@ They never get bored as there is always something to do, whether for pleasure or
 
 
 -----------
+
+## Project owners 
+* Bas Mahieu
+
+## Project contributors
+* Muhammad Fawad Rafique
+* Alejandro Perdomo
+* Kim Delbarre
